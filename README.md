@@ -1,6 +1,3 @@
-# iyed-araba
-
-
 <h1 align="center">Hi 👋, I'm ARABA IYAD</h1>
 <h3 align="center">A passionate frontend developer from ALGERIA , Experienced Front-End Developer & UI/UX Designer with expertise in HTML, CSS, JavaScript, and React. Focused on creating intuitive and visually appealing interfaces. 3+ years of experience in responsive web development. Passionate about staying current with industry trends and technologies. Proven track record of delivering exceptional results.</h3>
 
